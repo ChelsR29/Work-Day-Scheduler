@@ -11,3 +11,4 @@ With this project the user can enter tasks in the time blocks provided (from 9am
 
 ## Link to Deployed Application
 
+https://chelsr29.github.io/Work-Day-Scheduler/
