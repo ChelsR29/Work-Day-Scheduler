@@ -3,6 +3,18 @@ body {
   font-size: 16px;
 }
 
+header {
+ text-align: center;
+ border-style: solid;
+ border-bottom-width: 7px;
+}
+
+h2 {
+  font-size: small;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 textarea {
   background: transparent;
   border: none;
